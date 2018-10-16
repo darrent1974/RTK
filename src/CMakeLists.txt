@@ -34,8 +34,8 @@ set(RTK_SRCS
   rtkReg23ProjectionGeometry.cxx
   rtkSheppLoganPhantom.cxx
   rtkThreeDCircularProjectionGeometry.cxx
-  rtkThreeDCircularProjectionGeometryXMLFileReader.cxx
-  rtkThreeDCircularProjectionGeometryXMLFileWriter.cxx
+#  rtkThreeDCircularProjectionGeometryXMLFileReader.cxx
+#  rtkThreeDCircularProjectionGeometryXMLFileWriter.cxx
   rtkTimeProbesCollectorBase.cxx
   rtkVarianObiGeometryReader.cxx
   rtkVarianObiXMLFileReader.cxx
